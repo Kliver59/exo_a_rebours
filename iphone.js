@@ -67,3 +67,4 @@ function getRemaindingTime() {
 const countdown = setInterval(getRemaindingTime, 1000);
 //set initial values
 getRemaindingTime();
+getRemaindingTime();
